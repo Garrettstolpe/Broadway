@@ -3,12 +3,12 @@ html {
   text-align: center;
 }
 
- h1 {
+ #header {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
 }
 
-.head {
+.head a {
   font-family: Helvetica;
   font-size: 18px;
-  color; white;
+  color: white;
 }
